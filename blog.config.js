@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  title: 'ylem',
+  author: 'trai25',
+  email: 'trai25@gmail.com',
+  link: 'https://ylem.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -13,7 +13,7 @@ const BLOG = {
   postsPerPage: 7,
   showAbout: true, // WIP
   showArchive: true, // WIP
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/trai25II',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
