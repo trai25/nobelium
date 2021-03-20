@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'ylem',
+  title: 'YLEM',
   author: 'trai25',
   email: 'trai25@gmail.com',
   link: 'https://ylem.vercel.app',
-  description: 'This gonna be an awesome website.',
+  description: '一些小问题',
   lang: 'zh-CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
