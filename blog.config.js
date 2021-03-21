@@ -3,7 +3,7 @@ const BLOG = {
   author: 'trai25',
   email: 'trai25@gmail.com',
   link: 'https://ylem.vercel.app',
-  description: '一些小问题',
+  description: '小问题',
   lang: 'zh-CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
