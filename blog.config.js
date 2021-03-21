@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'YLEM',
-  author: 'trai25',
+  author: 'ylem',
   email: 'trai25@gmail.com',
   link: 'https://ylem.vercel.app',
   description: '小问题',
@@ -13,7 +13,7 @@ const BLOG = {
   postsPerPage: 7,
   showAbout: true, // WIP
   showArchive: true, // WIP
-  socialLink: 'https://twitter.com/trai25II',
+  socialLink: 'https://twitter.com/ylem613',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
